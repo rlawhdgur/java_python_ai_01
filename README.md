@@ -106,11 +106,30 @@ OAuth2 : 다른 애플리케이션에서 사용자 데이터에 대한 제한된
 ### 아이디 / 비밀번호 찾기
 - 비밀번호 찾기 수행 시 비밀번호는 임시 비밀번호로 변경
 ![아이디비밀번호찾기](https://user-images.githubusercontent.com/120995529/230292688-2bff2a72-ed7f-4a5b-a2ec-d51f2a49af61.jpg)
-
-
-
-
 ***
+
+### 커뮤니티
+- 로그인 여부
+![커뮤니티로그인여부](https://user-images.githubusercontent.com/120995529/230293673-de7e9b26-45b4-4430-b69c-7160262494da.jpg)
+
+- 게시글 및 댓글 
+![커뮤니티](https://user-images.githubusercontent.com/120995529/230296940-9c449c10-8336-4728-a790-c3a0a280dbf5.jpg)
+***
+
+### 관리자
+- 회원관리
+![회원 관리 - 관리자](https://user-images.githubusercontent.com/120995529/230303135-51701790-0ca4-4318-a178-1f30f0c385d0.png)
+
+- 닉네임 변경 및 회원 삭제
+![관리자](https://user-images.githubusercontent.com/120995529/230302072-94051e3b-d8c1-4725-a58b-7212e62b8d7f.jpg)
+
+- 권한 관리
+![회원 권한 관리 - 관리자](https://user-images.githubusercontent.com/120995529/230303344-ae97d43b-f4f0-44ec-8336-ff0eb4b082ad.png)
+
+- 게시물 관리
+![게시글 보기+댓글 - 관리자](https://user-images.githubusercontent.com/120995529/230303254-7edf9e50-f3a1-43ac-aec9-f2c40f323240.png)
+***
+
 ## 주요 기능
 ### 홈페이지
 - 해외음원차트
