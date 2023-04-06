@@ -21,7 +21,7 @@
 - Framework : MyBatis, Spring Security, OAuth2, Spring Boot(v.2.7.9)
 - DB : MySQL, MongoDB
 - 작업툴 : VS code, Eclipse
-- 협업Tool : Github, Slack, Trello
+- 협업Tool : <img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=white">, Slack, Trello
 - 인원 : 8명
 - 주요 업무 : Spring Boot 프레임 워크를 이용한 웹 개발 구현 코드 작성
   - 로그인 / 회원가입
