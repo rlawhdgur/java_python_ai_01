@@ -17,7 +17,7 @@
 - 해외 음원 차트 기능이 포함 된 커뮤니티의 필요성을 통해 프로젝트 진행
 
 ### 3. 팀 구성
-- 사용언어 : Java, JavaScript, HTML, CSS, jQuery(ajax)
+- 사용언어 : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">, HTML, CSS, <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">(ajax), <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white">
 - Framework : MyBatis, Spring Security, OAuth2, Spring Boot(v.2.7.9)
 - DB : MySQL, MongoDB
 - 작업툴 : VS code, Eclipse
