@@ -18,7 +18,7 @@
 
 ### 3. 팀 구성
 - 사용언어 : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">, HTML, CSS, <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">(ajax), <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white">
-- Framework : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">, Spring Security, OAuth2, Spring Boot(v.2.7.9)
+- Framework : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">, <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">, OAuth2, Spring Boot(v.2.7.9)
 - DB : MySQL, MongoDB
 - 작업툴 : VS code, Eclipse
 - 협업Tool : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">, Slack, Trello
