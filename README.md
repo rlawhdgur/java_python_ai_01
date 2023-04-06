@@ -22,7 +22,7 @@
 - DB : MySQL, MongoDB
 - 작업툴 : VS code, Eclipse
 - 협업Tool : Github, Slack, Trello
-- 인원 : 4명
+- 인원 : 8명
 - 주요 업무 : Spring Boot 프레임 워크를 이용한 웹 개발 구현 코드 작성
   - 로그인 / 회원가입
   - 이메일, 비밀번호 변경
