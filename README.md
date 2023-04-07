@@ -18,7 +18,7 @@
 
 ### 3. 팀 구성
 - 사용언어 : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">, <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">, <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">(ajax), <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white">
-- Framework : <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white">, OAuth2, <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F-v.2.7.9-green?style=flat&logo=springboot&logoColor=white">(v.2.7.9)
+- Framework : <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white">, OAuth2, <img src="https://img.shields.io/badge/Spring%20Boot-v.2.7.9-6DB33F?style=flat&logo=springboot&logoColor=white">(v.2.7.9)
 - DB : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">, <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 - 작업툴 : VS code, Eclipse
 - 협업Tool : <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">, Slack, Trello
