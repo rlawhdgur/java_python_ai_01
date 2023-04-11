@@ -34,17 +34,18 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-<<<<<<< HEAD
 .vscode/
 
 
 ### 설정 파일 ###
 ./project/src/main/resources/*.properties
-=======
+
 ./vscode
 ./vscode/**
 
 
 ### 설정 파일 ###
 # *.properties
->>>>>>> main
+
+## API
+application-API-KEY.properties
