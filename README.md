@@ -1,7 +1,7 @@
 # 🎵 Last Carnival
-- [배포 링크]() - 작업 중
+- 배포 - ```Google Cloud Platform(GCP)```, ```2023년 5월 8일 종료```
 - 👉 [발표영상링크](https://www.youtube.com/watch?v=4hcJi-qpkdU)
-- 👉 [데모영상링크]() - 작업 중
+- 👉 시연 구간 - ```4:46``` ~ ```11:20```
 ***
 ![image](https://user-images.githubusercontent.com/120995529/230265566-69714b94-2250-49ab-9974-8f7800c69e01.png)
 
